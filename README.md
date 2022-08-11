@@ -1,5 +1,6 @@
 # Pong game
-## Description
+## Description: 
+In this project, we will build a version of Pong, one of the first arcade video games (1972). While Pong is not particularly exciting compared to today's video games, Pong is relatively simple to build and provides a nice opportunity to work on the skills that you will need to build a game like Asteroids. 
 - The ball spawns in the middle of the canvas with either an upward left or an upward right velocity. No credit if the ball moves only horizontally left or right. Bleh, that would be boring!
 
  - The ball bounces off of the top and bottom walls correctly. (1 pt each)
