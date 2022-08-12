@@ -22,4 +22,6 @@ In this project, we will build a version of Pong, one of the first arcade video 
 
 - The game includes a "Restart" button that resets the score and relaunches the ball.
 
+### Game link: https://py2.codeskulptor.org/#user49_QLYouWC0FltmMBj_25.py
+
 ![image](https://user-images.githubusercontent.com/58776067/184153072-2f52f88f-58d7-4eb9-8677-774a18d43373.png)
